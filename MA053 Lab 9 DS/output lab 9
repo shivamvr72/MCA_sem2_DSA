@@ -1,0 +1,262 @@
+shivam@ubantu:~/c_programs/sem2/MA053 Lab 9 DS$ gcc isearch.c
+shivam@ubantu:~/c_programs/sem2/MA053 Lab 9 DS$ ./a.out
+Enter size of an array : 7
+Enter element : 1
+Enter element : 3
+Enter element : 5
+Enter element : 6
+Enter element : 7
+Enter element : 8
+Enter element : 10
+Menu 
+ 1.Linear Search 
+ 2.Bubble Search 
+ 3.Exit 
+Select: 1
+Enter Value : 5
+value 5 found at index 2 
+Menu 
+ 1.Linear Search 
+ 2.Bubble Search 
+ 3.Exit 
+Select: 1
+Enter Value : 2
+value 2 not found
+Menu 
+ 1.Linear Search 
+ 2.Bubble Search 
+ 3.Exit 
+Select: 2
+Enter Value : 10
+found at index : 6
+ Menu 
+ 1.Linear Search 
+ 2.Bubble Search 
+ 3.Exit 
+Select: 2
+Enter Value : 8
+found at index : 5
+
+shivam@ubantu:~/c_programs/sem2/MA053 Lab 9 DS$ gcc tree1.c 
+shivam@ubantu:~/c_programs/sem2/MA053 Lab 9 DS$ ./a.out
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 1
+Enter Value : 30
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 1
+Enter Value : 7
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 1
+Enter Value : 3
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 1
+Enter Value : 9
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 1
+Enter Value : 72
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 1
+Enter Value : 71
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 1
+Enter Value : 73
+
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 5
+level order Traversal 
+30 7 72 3 9 71 73 
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 2
+Pre Order Traversal 
+30	7	3	9	72	71	73	
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 3
+In Order Traversal 
+3	7	9	30	71	72	73	
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 4
+Post Order Traversal 
+3	9	7	71	73	72	30	
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 6
+Total Nodes in Tree : 7
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 7
+Total Internal Nodes : 2
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 8
+Total External Nodes : 4
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 9
+Hight Of Tree : 3
+Menu : 
+ 1. Insert Node 
+ 2. Pre Order 
+ 3. In Order 
+ 4. Post Order 
+ 5. Level Order Traversal 
+ 6. Total Node 
+ 7. Insternal Nodes 
+ 8. External Nodes 
+ 9. Hight of Tree 
+10. Search Element 
+ Select : 10
+Enter Value to search : 3
+3 found
